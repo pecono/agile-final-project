@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Template Final Lab
+about: Template for the final project.
 title: ''
 labels: ''
 assignees: ''
